@@ -1,6 +1,6 @@
 public class RandomSentence {
 	public static void main (String[] args){
-		String[] greetingList = {"Hi!", "Bye!", "Hello!"};
+		String[] greetingList = {"Hii!", "Bye!", "Hello!"};
 		String[] firstNameList = {"Ramesh", "Suresh", "Ganesh", "Mahesh"};
 		String[] lastNameList = {"Shrestha", "Sigdel", "Pokhrel"};
 		int greetingListLength = greetingList.length;
